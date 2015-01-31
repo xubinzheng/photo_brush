@@ -2,6 +2,8 @@ photo_brush
 ===========
 This a photo brush tool
 
+<img src="https://raw.githubusercontent.com/xubinzheng/photo_brush/master/demo/demo.png"/>
+
 
 ##Main functions:
 
