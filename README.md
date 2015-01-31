@@ -23,13 +23,18 @@ an area of the picture. Include controls for determining the blur area size.
 ##How to use:
 
 1.download the whole package
+
 2.click the brush.jar and run the application
 
-if you want to import your own image or use URL 
+####if you want to import your own image or use URL 
+
 
 1.download the package and import to your eclipse or other environment
+
 2.open ImageEditor.java
+
 3.you can enter your photo link in readFromURL(“”).
+
 4.run ImageEditor
 
 
